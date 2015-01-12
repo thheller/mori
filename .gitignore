@@ -10,6 +10,7 @@
 /.lein-deps-sum
 .lein*
 mori*.js
+!/release/*.js
 !/spec/mori*.js
 !/support/scripts/mori.js
 *.swp
